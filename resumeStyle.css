@@ -1,9 +1,9 @@
 body {
-    text-align: center;
     background-color: lavenderblush;
 }
 
 ul {
+    text-align: left;
     list-style-type: circle;
     color: black
 }
