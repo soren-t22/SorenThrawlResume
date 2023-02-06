@@ -1,6 +1,5 @@
 body {
     text-align: center;
-    color: black
 }
 
 ul {
@@ -9,5 +8,10 @@ ul {
 }
 
 h1 {
+    text-align: center;
     color: red
+}
+
+p {
+    text-align: center;
 }
